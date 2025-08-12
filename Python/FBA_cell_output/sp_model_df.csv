@@ -1,0 +1,9 @@
+species,models,species_abb
+Agrobacterium tumefaciens,Agrobacterium_tumefaciens_gapfill.xml,AgT
+Alcaligenes faecalis,Alcaligenes_faecalis_gapfill.xml,AlF
+Delftia acidovorans,Delftia_acidovorans_gapfill.xml,DeA
+Pandoraea vervacti,Pandoraea_vervacti_gapfill.xml,PaV
+Pantoea agglomerans,Pantoea_agglomerans_gapfill.xml,PaA
+Pseudomonas asiatica,Pseudomonas_asiatica_gapfill.xml,PsA
+Pseudomonas delhiensis,Pseudomonas_delhiensis_gapfill.xml,PsD
+Sphingomonas paucimobilis,Sphingomonas_paucimobilis_gapfill.xml,SpP
