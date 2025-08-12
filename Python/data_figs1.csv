@@ -1,0 +1,15 @@
+Stratin	species_abb	species	Succinate	Alanine	Glutamine	Proline	Acetate	Mannitol	Citrate	Glucose	Ribose	Glycerol	Cellobiose	Serine	Isoleucine	Sorbitol	Uridine	Raffinose
+AgT_GFP	AgT	Agrobacterium tumefaciens	0.729	0.119	0.000	0.000	0.722	0.812	0.000	1.000	0.727	0.677	0.838	0.000	0.000	0.804	0.000	0.000
+PaA_GFP Tn5	PaA	Pantoea agglomerans	0.903	0.945	0.933	1.000	0.000	0.958	0.000	0.000	0.950	0.984	0.317	0.000	0.000	0.114	0.319	0.000
+PaA_mScarlet	PaA	Pantoea agglomerans	0.660	0.962	0.843	1.000	0.000	0.807	0.803	0.715	0.797	0.708	0.847	0.000	0.000	0.000	0.000	0.000
+DeA_GFP	DeA	Delftia acidovorans	0.681	0.859	1.000	0.804	0.655	0.533	0.593	0.000	0.370	0.005	0.000	0.000	0.364	0.000	0.000	0.000
+DeA_mScarlet Tn5	DeA	Delftia acidovorans	0.744	0.350	0.910	1.000	0.738	0.758	0.861	0.000	0.032	0.054	0.000	0.000	0.335	0.000	0.000	0.000
+SpP_GFP Tn5	SpP	Sphingomonas paucimobilis	0.000	0.814	0.371	0.000	0.009	0.311	0.000	0.962	0.262	0.000	1.000	0.000	0.104	0.000	0.000	0.964
+SpP_mScarlet	SpP	Sphingomonas paucimobilis	0.576	0.363	0.875	0.824	0.000	0.501	0.351	0.998	0.160	0.000	1.000	0.000	0.422	0.000	0.000	0.986
+AlF_GFP	AlF	Alcaligenes faecalis	0.634	1.000	0.985	0.877	0.831	0.000	0.575	0.000	0.000	0.000	0.000	0.000	0.802	0.000	0.000	0.000
+AlF_mScarlet	AlF	Alcaligenes faecalis	0.723	1.000	0.937	0.787	0.791	0.000	0.560	0.000	0.000	0.000	0.000	0.000	0.796	0.000	0.000	0.000
+PaV_GFP	PaV	Pandoraea vervacti	0.672	0.851	0.850	0.890	0.760	0.000	0.674	0.000	0.099	1.000	0.000	0.000	0.030	0.000	0.000	0.000
+PaV_mScarlet Tn5	PaV	Pandoraea vervacti	0.760	0.957	0.856	0.938	0.739	0.011	0.696	0.000	0.015	1.000	0.000	0.027	0.000	0.000	0.000	0.000
+PsA_GFP Tn5	PsA	Pseudomonas asiatica	0.816	0.947	0.920	0.948	0.836	0.031	0.878	0.921	0.274	0.943	0.177	0.984	1.000	0.059	0.000	0.000
+PsA_mScarlet	PsA	Pseudomonas asiatica	0.822	1.000	0.989	0.988	0.841	0.144	0.922	0.983	0.174	0.961	0.088	0.993	0.507	0.000	0.023	0.000
+PsD_mScarlet Tn5	PsD	Pseudomonas delhiensis	0.797	1.000	0.278	0.940	0.825	0.043	0.790	0.983	0.199	0.127	0.109	0.000	0.518	0.000	0.000	0.000

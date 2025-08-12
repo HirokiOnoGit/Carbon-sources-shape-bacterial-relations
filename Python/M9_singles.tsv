@@ -1,0 +1,36 @@
+reaction	metabolite	global_id	flux	keggId	formulae	descriptive_name	type	name	mw	Succinate	Alanine	Glutamine	Proline	Acetate	Mannitol	Citrate	Glucose	Ribose	Glycerol	Cellobiose	Serine	Isoleucine	Sorbitol	Uridine	Raffinose
+EX_succ_m	succ_m	EX_succ_e	10	C00042	C4H4O4	Succinate	Carbon	Succinate	116.07	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+EX_ala__L_m	ala__L_m	EX_ala__L_e	10	C00041	C3H7NO2	L-Alanine	Carbon	Alanine	89.09	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+EX_gln__L_m	gln__L_m	EX_gln__L_e	10	C00064	C5H10N2O3	L-Glutamine	Carbon	Glutamine	146.14	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0
+EX_pro__L_m	pro__L_m	EX_pro__L_e	10	C00148	C5H9NO2	L-Proline	Carbon	Proline	115.13	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0
+EX_ac_m	ac_m	EX_ac_e	10	C00033	C2H3O2	Acetate	Carbon	Acetate	59.04	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0
+EX_mnl_m	mnl_m	EX_mnl_e	10	C00392	C6H14O6	D-Mannitol	Carbon	Mannitol	182.17	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0
+EX_cit_m	cit_m	EX_cit_e	10	C00158	C6H5O7	Citrate	Carbon	Citrate	189.124	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0
+EX_glc__D_m	glc__D_m	EX_glc__D_e	10	C00031	C6H12O6	D-Glucose	Carbon	Glucose	180.156	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0
+EX_rib__D_m	rib__D_m	EX_rib__D_e	10	C00121	C5H10O5	D-Ribose	Carbon	Ribose	150.13	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0
+EX_glyc_m	glyc_m	EX_glyc_e	10	C00116	C3H8O3	Glycerol	Carbon	Glycerol	92.09382	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0
+EX_cellb_m	cellb_m	EX_cellb_e	10	C00185	C12H22O11	Cellobiose	Carbon	Cellobiose	342.3	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+EX_ser__L_m	ser__L_m	EX_ser__L_e	10	C00065	C3H7NO3	L-Serine	Carbon	Serine	105.09	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0
+EX_ile__L_m	ile__L_m	EX_ile__L_e	10	C00407	C6H13NO2	L-Isoleucine	Carbon	Isoleucine	131.17	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0
+EX_sbt__D_m	sbt__D_m	EX_sbt__D_e	10	C00794	C6H14O6	D-Sorbitol	Carbon	Sorbitol	182.17	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0
+EX_uri_m	uri_m	EX_uri_e	10	C00299	C9H12N2O6	Uridine	Carbon	Uridine	244.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0
+EX_raffin_m	raffin_m	EX_raffin_e	10	C00492	C18H32O16	Raffinose	Carbon	Raffinose	504.437	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10
+EX_ca2_m	ca2_m	EX_ca2_e	1000	C00076	Ca	Calcium	Base	Calcium		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_cl_m	cl_m	EX_cl_e	1000		Cl	Chloride	Base	Chloride		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_cobalt2_m	cobalt2_m	EX_cobalt2_e	1000	C00175	Co	Co2+	Base	Cobalt		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_cu2_m	cu2_m	EX_cu2_e	1000		Cu	Copper	Base	Copper		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_fe2_m	fe2_m	EX_fe2_e	1000	C14818	Fe	Fe2+	Base	Iron2		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_fe3_m	fe3_m	EX_fe3_e	1000	C14819	Fe	Fe3+	Base	Iron3		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_h2o_m	h2o_m	EX_h2o_e	1000	C00001	H2O	H2O	Base	Water		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_h_m	h_m	EX_h_e	1000	C00080	H	H+	Base	Proton		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_k_m	k_m	EX_k_e	1000	C00238	K	Potassium	Base	Potassium		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_mg2_m	mg2_m	EX_mg2_e	1000		Mg	Magnesium	Base	Magnesium		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_mn2_m	mn2_m	EX_mn2_e	1000		Mn	Manganese	Base	Manganese		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+Ex_mobd_m	mobd_m	EX_mobd_e	1000		MoO4	Molybdate	Base	Molybdate		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+Ex_na1_m	na1_m	EX_na1_e	1000		Na	Sodium	Base	Sodium		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+Ex_nh4_m	nh4_m	EX_nh4_e	1000		NH4	Ammonium	Base	Ammonium		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+Ex_ni2_m	ni2_m	EX_ni2_e	1000		Ni	Nickel	Base	Nickel		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_o2_m	o2_m	EX_o2_e	1000	C00007	O2	O2	Base	Oxygen		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_pi_m	pi_m	EX_pi_e	1000	C00009	HO4P	Phosphate	Base	Phosphate		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_so4_m	so4_m	EX_so4_e	1000	C00059	O4S	Sulfate	Base	Sulfate		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
+EX_zn2_m	zn2_m	EX_zn2_e	1000	C00038	Zn	Zinc	Base	Zinc		1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000	1000
